@@ -11,6 +11,9 @@ Memora decides when a learner should next review each card, aiming for the point
 ## 3. Demo
 Interactive simulator: `streamlit run sim/app.py`. Static evidence: `docs/benchmark.png` and `docs/recovery.png`.
 
+![Real test run, captured 21 Nov 2026](docs/test-run.svg)
+*Real output from this repository's own tests, captured 21 Nov 2026.*
+
 ## 4. Run it yourself
 **Prerequisites:** Python 3 and pip.
 
