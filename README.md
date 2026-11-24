@@ -4,7 +4,7 @@
 > **An adaptive spaced-repetition engine that schedules review to the edge of forgetting — and proves it is calibrated.**  
 > **Result:** 11 unit tests + a parameter-recovery & calibration benchmark (behaviour MAE 0.012; Brier 0.10 vs 0.23/0.41 baselines).  
 > **Reproduce:** `pip install -e . && pytest -q   # benchmark: python benchmarks/recovery.py`  
-> ![CI](https://github.com/fhionnghaile/memora/actions/workflows/ci.yml/badge.svg)
+> ![CI](https://github.com/fhionnghaile/memora/actions/workflows/ci.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/memora/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/memora)
 >
 > **What this is worth:** Turns study time into retention: fewer reviews for the same recall — the whole value proposition of a learning product.
 
